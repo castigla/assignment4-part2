@@ -2,4 +2,36 @@ Start: Sun, 15 Feb 2015 4:02:00 -0800
 End: Sat, 7 Feb 2015 10:40:53 -0800 
 Tasks: started and completed assignment4-part2
 
+Start:12:30pm  Sun, 15 Feb 2015 22:13:26 -0800 
+End: Sun, 15 Feb 2015 22:13:26 -0800 
+Tasks: saving deleteone.php but I have no idea what was changed 
+
+Start:12:30pm  Sun, 15 Feb 2015 22:07:50 -0800 
+End: Sun, 15 Feb 2015 22:07:50 -0800 
+Tasks: finished alls files finally 
+
+Start:12:30pm  Sun, 15 Feb 2015 18:01:01 -0800 
+End: Sun, 15 Feb 2015 18:01:01 -0800 
+Tasks: updated all files and renamed assignment4-part2.html to assignment4-part2
+
+Start:12:30pm  Sun, 15 Feb 2015 16:20:41 -0800 
+End: Sun, 15 Feb 2015 16:20:41 -0800 
+Tasks: files added for assignment4-part2 
+...skipping...
+Start:12:30pm  Sun, 15 Feb 2015 22:13:26 -0800 
+End: Sun, 15 Feb 2015 22:13:26 -0800 
+Tasks: saving deleteone.php but I have no idea what was changed 
+
+Start:12:30pm  Sun, 15 Feb 2015 22:07:50 -0800 
+End: Sun, 15 Feb 2015 22:07:50 -0800 
+Tasks: finished alls files finally 
+
+Start:12:30pm  Sun, 15 Feb 2015 18:01:01 -0800 
+End: Sun, 15 Feb 2015 18:01:01 -0800 
+Tasks: updated all files and renamed assignment4-part2.html to assignment4-part2
+
+Start:12:30pm  Sun, 15 Feb 2015 16:20:41 -0800 
+End: Sun, 15 Feb 2015 16:20:41 -0800 
+Tasks: files added for assignment4-part2 
+
 
