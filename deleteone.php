@@ -19,7 +19,6 @@ if (isset($_POST['name'])) {
     echo "Provide a name please";
 } 
 $sql = "delete from videos where name = '$name'";
-$rented = True;
 $result = $conn->query($sql);
 
 ?>
